@@ -158,4 +158,4 @@ KELOMPOK 12 GACOR
 
 ![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/a9863b5842e089b08888248f796f96a48fef4184/menu%20keluar.png)
 
--Menu keluar ketika sudah selsai maka programnya akan berhenti 
+-Menu keluar ketika sudah selesai maka programnya akan berhenti 
